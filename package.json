@@ -1,0 +1,25 @@
+{
+  "name": "insta-like-js",
+  "version": "0.1.0",
+  "description": "A like-bot script for Instagram written in JavaScript ES6",
+  "license": "MIT",
+  "homepage": "https://github.com/sbolel/insta-like-js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sbolel/insta-like-js.git"
+  },
+  "author": {
+    "name": "Sinan Bolel",
+    "email": "hi@sinanbolel.com",
+    "url": "https://sinanbolel.com"
+  },
+  "contributors": [],
+  "keywords": [
+    "Instagram",
+    "bot",
+    "like",
+    "liker",
+    "likebot",
+    "social"
+  ]
+}
