@@ -1,6 +1,6 @@
 {
   "name": "insta-like-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A like-bot script for Instagram written in JavaScript ES6",
   "license": "MIT",
   "homepage": "https://github.com/sbolel/insta-like-js",
