@@ -1,7 +1,5 @@
 # Instagram Liker Script
 
-_Work in Progress_
+### Demo: Liking Top Posts for a Tag
 
-### Demo
-
-![tag demo](doc/assets/insta-like-tag-demo.gif)
+![tag demo](img/tag-demo.gif)
