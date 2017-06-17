@@ -3,6 +3,7 @@
  *
  * Usage: Open https://www.instagram.com/explore/tags/javascript/ in Chrome;
  *        run this script in the JS console to like top posts one-at-a-time.
+ *
  * @param {number} start - starting post index (should be 0 unless manually continuing a prev. exec.)
  * @param {number} interval - number of milliseconds to wait between batches, +/- some randomness
  */
@@ -60,7 +61,7 @@
       // @todo click the "Load more posts" button
       return
     }
-    
+
     return Promise.all(els.map(el => new Promise((resolve, reject) => {
       el.click()
       setTimeout(() => {
