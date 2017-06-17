@@ -1,4 +1,9 @@
-(function(document) {
+/**
+ * @desc    Inject jQuery in Instagram tag feed document then "Like" posts in series
+ * @example Navigate to https://www.instagram.com/explore/tags/javascript/ in Chrome,
+ *          and run this script in the JS console to like the top posts one-at-a-time.
+ */
+(function() {
   const count = 1
   const interval = 3000
   const selector = 'a'
@@ -76,4 +81,4 @@
   }
 
   main()
-})(document)
+})()
